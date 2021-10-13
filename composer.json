@@ -9,6 +9,11 @@
       "email": "abolfazlkhaleghi0011@gmail.com"
     }
   ],
+  "autoload": {
+    "psr-4": {
+      "Modules\\..\\": "Modules/../"
+    }
+  },
   "require": {
     
   }
