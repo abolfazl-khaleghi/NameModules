@@ -1,0 +1,15 @@
+{
+  "name": "abolfazl-khaleghi/NameModules",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Abolfazl_khaleghi",
+      "email": "abolfazlkhaleghi0011@gmail.com"
+    }
+  ],
+  "require": {
+    
+  }
+}
